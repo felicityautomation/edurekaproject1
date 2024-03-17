@@ -13,4 +13,4 @@ Feature: Test case of Login Feature
     Examples: 
       | username    | password |
       | bharathedu1 |   123456 |
-      | user2       | Welcome1 |
+      | user2       | Welcome123 |
