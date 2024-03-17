@@ -13,6 +13,7 @@ public class HomePage {
 	//Driver and it's initilazation
 	RemoteWebDriver driver;
 	
+	//A Contructor
 	public HomePage(RemoteWebDriver driver) {
 		this.driver=driver;
 	}
